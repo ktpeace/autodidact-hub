@@ -1,4 +1,4 @@
-# Autodidact Hub
+# Autodidactyl
 
 This is going to be a website for people to track their learning and find the best learning resources.
 
@@ -20,9 +20,10 @@ This is going to be a website for people to track their learning and find the be
 - Learning categories and subcategories, like Humanities -> History -> Iranian
 - Users can vote and comment on resources in style similar to Reddit. Most-voted will be listed first by default
 - Can search and sort
+- Users can rate themselves on individual skills
+- User profiles will have icons for their learning at the smallest level (such as Humanities -> Languages -> Korean)
 - Profiles will be a summary of all knowledge/skills people possess
 - Profiles will also have a radar graph drawn from the number of skills and the skill level in each top category
-- User profiles will have icons for their learning at the smallest level (such as Humanities -> Languages -> Korean)
 
 ### Next Up
 
