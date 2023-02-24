@@ -1,0 +1,27 @@
+.nav {
+  padding: 1rem 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+  background-color: #0c0135;
+  color: white;
+}
+
+.navLinks {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 0;
+}
+
+.homeLink {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.currPage {
+  text-decoration: underline;
+}
